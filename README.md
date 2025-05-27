@@ -32,6 +32,7 @@
   - `iperf3`
   - `mosh`
   - `mtr`
+  - `node`
   - `scrcpy`
   - `speedtest`
   - `smartmontools`
